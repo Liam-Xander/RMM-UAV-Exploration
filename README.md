@@ -9,7 +9,7 @@ Our research aims to leverage the high-fidelity, lightweight, and complete map r
 * **Phase 1: Real-Time Mapping Framework (Completed)**
     * This phase focuses on the first-ever integration of the RMM framework with a UAV exploration system for real-time, high-fidelity mapping.
     * The results of this work have been accepted for publication at IROS 2025.
-    * **Paper:** Xingyu Li, et al. "Real-Time Occupancy Grid Mapping Using RMM on Large-scale and Unstructured Environments," *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. [Link to paper will be added upon publication]
+    * **Paper:** Xingyu Li, et al. "Real-Time Occupancy Grid Mapping Using RMM on Large-scale and Unstructured Environments," *2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*.
 
 * **Phase 2: Planner-Aware Exploration (Ongoing)**
     * This ongoing research focuses on leveraging the enhanced map qualities (e.g., completeness and high fidelity) from the RMM framework to directly inform and improve the planner's decision-making process.
