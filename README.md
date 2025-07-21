@@ -18,7 +18,7 @@ Our research aims to leverage the high-fidelity, lightweight, and complete map r
 
 **Please note that the source code is not yet publicly available.**
 
-Our commitment is to provide a complete, robust, and well-documented codebase for the community. To ensure the release reflects the full value of our integrated system, **we plan to make this repository public following the acceptance of our follow-up paper detailing the work from Phase 2.**
+Our commitment is to provide a complete, robust, and well-documented codebase for the community. To ensure the release reflects the full value of our integrated system, <span style="color:blue">**we plan to make this repository public following the acceptance of our follow-up paper detailing the work from Phase 2.**</span>
 
 We believe this approach will provide a more holistic and powerful tool for other researchers.
 
