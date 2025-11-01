@@ -85,6 +85,22 @@ Our implementation builds on top of the **FUEL** framework. The RMM-based mappin
 - **Real-time occupancy inference** for map completion in unobserved areas
 - **CUDA acceleration** for efficient parallel computation on GPUs
 
+## Usage
+
+To run the autonomous exploration system, you will need two terminals.
+
+1.  In the first terminal, launch the RViz visualization environment:
+
+    ```bash
+    roslaunch exploration_manager rviz.launch
+    ```
+
+2.  In the second terminal, start the main exploration node which includes the mapping and planning modules:
+
+    ```bash
+    roslaunch exploration_manager exploration.launch
+    ```
+    
 ## Contact
 
 For any questions, please feel free to email [2300902@stu.neu.edu.cn].
